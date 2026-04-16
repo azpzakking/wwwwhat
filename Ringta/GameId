@@ -3,7 +3,7 @@ local Games = {
   [126509999114328] = "https://raw.githubusercontent.com/wehibuyfgyuwe/99nights.github.io/refs/heads/main/ringta.lua", -- 99 NITF
   [18687417158] = "https://raw.githubusercontent.com/34f3f/forsaken.github.io/refs/heads/main/ringtabublik.lua", -- Forsaken
   [70845479499574] = "https://raw.githubusercontent.com/ergerg4/bitenights.github.io/refs/heads/main/ringta.lua", -- Bite By Night
-  [116495829188952] = "https://raw.githubusercontent.com/erewe23/deadrailsring.github.io/refs/heads/main/ringta.lua", -- Dead Rails
+  [70876832253163] = "https://raw.githubusercontent.com/erewe23/deadrailsring.github.io/refs/heads/main/ringta.lua", -- Dead Rails
   [109983668079237] = "https://raw.githubusercontent.com/ringta9321/steala.github.io/refs/heads/main/brainrot.lua", -- SAB
   [99567941238278] = "https://raw.githubusercontent.com/wefwef34/inkgames.github.io/refs/heads/main/ringta.lua" -- Ink Games
 }
