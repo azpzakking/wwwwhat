@@ -8,7 +8,7 @@ else
 local StarterGui = game:GetService("StarterGui")
 StarterGui:SetCore("SendNotification", {
 	Title = "Ringta Hub",
-	Text = "Script unsupported in this game",
+	Text = "Enter the correct game to execute it!",
 	Duration = 5, -- Seconds
 })
 
